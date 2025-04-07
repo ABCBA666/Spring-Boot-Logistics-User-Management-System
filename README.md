@@ -93,6 +93,6 @@ Postman->Body->raw,复制粘贴即可
 - 500: 操作失败
 
 ## Postman 测试
-![img.png](test/img.png)
-![img_1.png](test/img_1.png)
-![img.png](test/img_2.png)
+![img](https://github.com/user-attachments/assets/70d1101c-f9e0-40bb-b904-4e4eb3d002e3)
+![img_1](https://github.com/user-attachments/assets/084e0566-25d8-44a2-846c-1fcdc83dd412)
+![img_2](https://github.com/user-attachments/assets/afb67344-1409-4343-80f4-4426fee8d1a1)
